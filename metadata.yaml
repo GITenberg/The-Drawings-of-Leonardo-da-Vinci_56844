@@ -1,0 +1,40 @@
+_repo: The-Drawings-of-Leonardo-da-Vinci_56844
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hind, C. Lewis (Charles Lewis)
+    aliases:
+    - Hind, Lewis
+    - Hind, Charles Lewis
+    - Hind, C. L. (Charles Lewis)
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '7231'
+    url: http://www.gutenberg.org/2009/agents/7231
+creator:
+  author:
+    agent_name: Leonardo, da Vinci
+    aliases:
+    - Da Vinci, Leonardo
+    - Vinci, Léonard de
+    - Vinci, Leonardo da
+    birthdate: 1452
+    deathdate: 1519
+    gutenberg_agent_id: '1629'
+    url: http://www.gutenberg.org/2009/agents/1629
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Leonardo_da_Vinci
+    - http://en.wikipedia.org/wiki/Leonardo_da_Vinci
+description: ''
+gutenberg_issued: '2018-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Drawings of Leonardo da Vinci
+url: http://www.gutenberg.org/ebooks/56844
